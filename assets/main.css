@@ -1,0 +1,104 @@
+body {
+	 background-color: #255AD8;
+	font-family: hk gotesk;
+}
+h1 {
+	font-size: 60px;
+	color: #ffffff;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: pilowlava;
+    line-height: 65px;
+	border-width: 2px;
+  border-radius: 20px;
+  padding: 20px;
+  background: -webkit-linear-gradient(#FD0000, #FF25BD
+);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+hr {
+	width: 170px;
+	text-align: center;
+	color: #ffffff ;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+h2 {
+	font-weight: bold;
+	font-size: 18px;
+	color: #FF25BD;
+	font-family: akira expanded;
+	line-height: 50px;
+	text-align: center;
+}
+h3 {
+	font-size: 20px;
+	color: #ffffff;
+	font-family: hk grotesk light;
+	margin-left: 250px;
+	margin-right: 250px;
+	letter-spacing: 1.5px;
+	text-align: center
+	background-color: #e6005c;
+}
+h4 {
+	font-size: 20px;
+	color: #ffffff;
+	font-family: hk grotesk light;
+	margin-left: 100px;
+	margin-right: 100px;
+	letter-spacing: 1.5px;
+	text-indent: 30px;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.indented {
+	margin: 0 0 30px 30px
+}
+.bold { 
+	font-weight: bold; }
+.ohnoblazeface {
+	font-family: Ohno Blazeface;
+	font-size: 24px;
+}
+.poplar {
+	font-family: akira expanded;
+	font-size: 30px;
+	letter-spacing: 20px;
+	line-height: 1.8,
+}
+.color {
+	text-indent: 30px;
+}
+.section1 {
+  margin: 100px;
+  padding: 5px;
+  font-family: avenir;
+  font-size: 22px;
+  line-height: 1.7;
+  color: white;
+  background-image: linear-gradient(to right,#FD0000, #FF25BD);
+  border-radius: 20px;
+  padding: 20px;
+  align-content: center;
+}
+.section2 {
+  margin: 100px;
+  padding: 5px;
+  font-family: avenir;
+  font-size: 22px;
+  line-height: 1.7;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  align-content: center;
+}
